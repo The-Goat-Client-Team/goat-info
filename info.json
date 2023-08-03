@@ -1,0 +1,14 @@
+{
+  "releases": {
+    "normal": {
+      "fabric": {
+        "snapshots": [
+          "23w1b"
+        ],
+        "releases": [
+
+        ]
+      }
+    }
+  }
+}

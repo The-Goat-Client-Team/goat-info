@@ -1,2 +1,2 @@
 # goat-info
-Info on The Goat Client Project.
+Info on Goat Client.
