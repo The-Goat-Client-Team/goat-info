@@ -8,7 +8,7 @@
       
     ]
   },
-  "alpha": {
+  "alpha_black": {
     "allowed": [
       
     ],
@@ -16,5 +16,13 @@
       
     ],
     "fpt": -5
+  },
+  "alpha_green": {
+    "allowed": [
+      
+    ],
+    "possessing": [
+      
+    ]
   }
 }
